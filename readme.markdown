@@ -1,3 +1,5 @@
+Update 10.4.2015 - Updated minidetector for Python 3
+
 About
 =====
 
